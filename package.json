@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node app.js",
+=======
+    "start": "node agente.js",
+>>>>>>> 581d2e4 (Primer commit: Chat con Socket.IO)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
